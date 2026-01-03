@@ -69,8 +69,6 @@ Audit log file looks like:
 * sensitive attribute (`group`)
 * target label (`recommended_for_review`)
 
-**Why it matters:** You can publish it on GitHub safely (no real personal data), but still demonstrate privacy + fairness.
-
 **Simple example:**
 One row might look like:
 
